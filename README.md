@@ -2,6 +2,8 @@
 
 Emulatör için geliştirilmiş özel bir dosya yönetim aracıdır. ADB (Android Debug Bridge) üzerinden Emülatör instancelarına dosya aktarımı, silme ve yönetim işlemlerini kolaylaştırır.
 
+![ADB File Manager](https://github.com/user-attachments/assets/f6abb732-40d3-4ef7-9575-00baa79731c9)
+
 ## Özellikler
 
 - Bağlı Adb instancelarını otomatik tespit etme
